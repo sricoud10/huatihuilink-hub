@@ -1,2 +1,14 @@
 # huatihuilink-hub
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 文件用途
+
+- HTML 文件保存页面内容
+- README 记录仓库基本信息
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
